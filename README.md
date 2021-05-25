@@ -3,6 +3,9 @@
 * 👾 Focus on development web
 * 🔒 Cybersecurity enthusiast
 * 💻 Science Computer student - @UFBA
+
+<img width="200px" src="http://s2.glbimg.com/FRyrYDBiOhDglCRobjP2Nxvg0Po=/e.glbimg.com/og/ed/f/original/2017/01/12/van-gogh.gif"> <img/> 
+
 ## Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,4 +20,3 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lopes-4277391b1/)
 
-<img style="width=100px;" src="http://s2.glbimg.com/FRyrYDBiOhDglCRobjP2Nxvg0Po=/e.glbimg.com/og/ed/f/original/2017/01/12/van-gogh.gif"> <img/> 
