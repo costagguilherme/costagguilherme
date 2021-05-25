@@ -4,7 +4,7 @@
 * 🔒 Cybersecurity enthusiast
 * 💻 Science Computer student - @UFBA
 
-<img width="200px" src="http://s2.glbimg.com/FRyrYDBiOhDglCRobjP2Nxvg0Po=/e.glbimg.com/og/ed/f/original/2017/01/12/van-gogh.gif"> <img/> 
+<img width="300px" src="http://s2.glbimg.com/FRyrYDBiOhDglCRobjP2Nxvg0Po=/e.glbimg.com/og/ed/f/original/2017/01/12/van-gogh.gif"> <img/> 
 
 ## Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
