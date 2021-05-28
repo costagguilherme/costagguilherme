@@ -2,7 +2,7 @@
 
 * 👾 Focus on development web
 * 🔒 Cybersecurity enthusiast
-* 💻 Science Computer student - @UFBA
+* 💻 Computer Science student - @UFBA
 
 <img height="170px" src="https://4.bp.blogspot.com/-gz9ZgizANGA/WmPAyHrPOQI/AAAAAAAAeZ8/CTJuyzXBFfwHa9_3YtODmRQdVuFDRa5EACLcBGAs/s1600/starry%2Bnight%2Bgif.gif"> <img/> 
 
