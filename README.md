@@ -1,10 +1,12 @@
-# Hey, I'm Guilherme Costa!
+<h1 align="center">
+  Hey, I'm Guilherme Costa!
+</h1>
 
-* 👾 Focus on development web
-* 🔒 Cybersecurity enthusiast
-* 💻 Computer Science student - @UFBA
-* Studying C# .NET
-
+<div align="center">
+  👾 Focus on development web </br>
+  🔒 Cybersecurity enthusiast </br>
+  💻 Computer Science student - @UFBA </br>
+  ❤️ Beach - Astronomy - Soccer </br> </br>
 <img height="170px" src="https://4.bp.blogspot.com/-gz9ZgizANGA/WmPAyHrPOQI/AAAAAAAAeZ8/CTJuyzXBFfwHa9_3YtODmRQdVuFDRa5EACLcBGAs/s1600/starry%2Bnight%2Bgif.gif"> <img/> 
 
 ## Skills:
@@ -22,3 +24,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lopes-4277391b1/)
 
+</div>
