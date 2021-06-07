@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  👾 Focus on development web </br>
+  👾 Web development </br>
   🔒 Cybersecurity enthusiast </br>
   💻 Computer Science student - @UFBA </br>
   🤩 Beach - Astronomy - Soccer </br> </br>
