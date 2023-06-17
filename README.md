@@ -1,5 +1,5 @@
 <h1>
-  Guilherme Costa!
+  Guilherme Costa
 </h1>
  
  <div>
