@@ -1,5 +1,5 @@
 <h1>
-  Hey, I'm Guilherme Costa!
+  Guilherme Costa!
 </h1>
  
  <div>
